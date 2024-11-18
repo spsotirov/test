@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Session2_HW2/bin/Debug/net8.0
+/Session2_HW2/obj
+/Session2_HW3/bin/Debug/net8.0
+/Session2_HW3/obj
+/Session2_HW4/bin/Debug/net8.0
+/Session2_HW4/obj
+/Session2_HW5/bin/Debug/net8.0
+/Session2_HW5/obj
+/Test1/bin/Debug/net8.0
+/Test1/obj
+/.vs/Test1/FileContentIndex
+/.vs/ProjectEvaluation
