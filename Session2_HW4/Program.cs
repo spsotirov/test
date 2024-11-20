@@ -16,7 +16,7 @@ namespace QATraining2_4
 
             double area = Math.PI * radiusD * radiusD;
 
-            Console.WriteLine("The area is: " + area);
+            Console.WriteLine($"The area is: {area:0.##}");
         }
     }
 }
